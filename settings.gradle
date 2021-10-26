@@ -1,2 +1,4 @@
+rootProject.name = "maia-topology-json"
+includeBuild "../maia-build"
 includeBuild "../maia-json-configuration"
 includeBuild "../maia-topology"
