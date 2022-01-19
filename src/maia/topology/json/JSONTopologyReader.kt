@@ -1,14 +1,14 @@
-package māia.topology.json
+package maia.topology.json
 
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.json.JsonArray
 import kotlinx.serialization.json.JsonObject
 import kotlinx.serialization.json.JsonPrimitive
 import kotlinx.serialization.json.int
-import māia.configure.json.JSONConfigurationReader
-import māia.topology.visitation.TopologyVisitable
-import māia.util.classForName
-import māia.util.map
+import maia.configure.json.JSONConfigurationReader
+import maia.topology.visitation.TopologyVisitable
+import maia.util.classForName
+import maia.util.map
 
 
 /**
